@@ -1,15 +1,28 @@
-This is an update for previous project [Car managment system](https://github.com/AL5al-21/Java_GUI_Projects/blob/Cars_management_system/README.md) with some new features like (register,interactive panel
-,etc..)
+Simple Java Library System
+
+This project implements a basic library management system in Java. It allows users to add, view, edit, and delete books from the library's catalog.
+
+Features
+    Add new books to the library
+    View a list of all books
+    Search for books by title or author
+    Edit book details (title, author, ISBN)
+    Delete unwanted books
 
 
 
+![image](https://github.com/user-attachments/assets/fc4cbdb1-84f4-452d-b111-5bd7919665ab)
 
-![image](https://github.com/AL5al-21/Java_GUI_Projects/assets/97804161/d0659732-8e14-48e8-99ec-70cd8334beec)
-![image](https://github.com/AL5al-21/Java_GUI_Projects/assets/97804161/a4c8b48c-7d8d-4d91-bea3-11a8fb31367f)
-![image](https://github.com/AL5al-21/Java_GUI_Projects/assets/97804161/0317c791-1bfd-4f68-b9b9-b6761a8c9370)
-![image](https://github.com/AL5al-21/Java_GUI_Projects/assets/97804161/763afab1-e86d-4cb8-941c-3b5aa28ebb02)
-![image](https://github.com/AL5al-21/Java_GUI_Projects/assets/97804161/4d2d2034-464c-41a2-b2e3-ae10861dd1d4)
-![image](https://github.com/AL5al-21/Java_GUI_Projects/assets/97804161/f9fea7ec-4301-4c79-9e19-403c4954fcb5)
+![image](https://github.com/user-attachments/assets/75ea9f58-b607-480b-a19b-d1ca90706f97)
+
+![image](https://github.com/user-attachments/assets/0a4a2e09-0e0f-4301-8e4f-e3ecdbe27431)
+
+![image](https://github.com/user-attachments/assets/65b55ba7-2646-41c4-89e4-05077535fa03)
+
+![image](https://github.com/user-attachments/assets/2db69396-db20-469b-8944-18da3ab5e8e0)
+
+![image](https://github.com/user-attachments/assets/70ece973-a82e-48f2-b2c1-81107da9c152)
+
 
 
 
